@@ -13,5 +13,6 @@ def trapesium(f, a, b, n):
 f = lambda x: (3*x**2)*(x**3+2)**2
 
 # ini adalah hasil perubahan dari code sebelumnya
+# terjadi perubahan lagi
 
 print(trapesium(f, 0, 2, 4))
